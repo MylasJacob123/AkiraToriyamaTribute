@@ -1,0 +1,37 @@
+#main{
+    text-align: center;
+    background-color: rgba(241, 241, 241, 0.945);
+    width: 80%;
+    margin: auto auto;
+    font-family: sans-serif;
+}
+
+#img-div {
+    margin: auto auto;
+    width: 97%;
+    background-color: white;
+    padding: 20px 0 13px 0px;
+}
+
+img {
+    margin: auto auto;
+}
+
+#image {
+    display: block;
+    align-items: center;
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 7px;
+}
+
+li { 
+    margin: auto auto;
+    width: 560px;
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+}
+
